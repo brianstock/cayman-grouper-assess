@@ -1,6 +1,6 @@
-## Pulse recruitment and recovery of Cayman Islands Nassau Grouper (**Epinephelus striatus**) spawning aggregations revealed by **in situ** length-frequency data
+## Pulse recruitment and recovery of Cayman Islands Nassau Grouper (*Epinephelus striatus*) spawning aggregations revealed by *in situ* length-frequency data
 
-This repository holds the analysis for: Stock, BC, SA Heppell, L Waterhouse, IC Dove, CV Pattengill-Semmens, CM McCoy, PG Bush, G Ebanks-Petrie, and BX Semmens. Pulse recruitment and recovery of Cayman Islands Nassau Grouper (**Epinephelus striatus**) spawning aggregations revealed by **in situ** length-frequency data. **ICES Journal of Marine Science**. In press.
+This repository holds the analysis for: Stock, BC, SA Heppell, L Waterhouse, IC Dove, CV Pattengill-Semmens, CM McCoy, PG Bush, G Ebanks-Petrie, and BX Semmens. Pulse recruitment and recovery of Cayman Islands Nassau Grouper (*Epinephelus striatus*) spawning aggregations revealed by *in situ* length-frequency data. *ICES Journal of Marine Science*. In press.
  
 To recreate the analysis, you can run the `.R` files in the `code` folder in order. Intermediate model results are saved in `results`. Figures will be produced in the `plots` folder.
 
